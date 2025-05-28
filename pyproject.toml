@@ -1,0 +1,13 @@
+[project]
+name = "EchoBook"
+version = "0.1.0"
+description = "Aplikacja do tłumaczenia eBooków EPUB na język polski"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai",
+    "ebooklib",
+    "beautifulsoup4",
+    "lxml",
+    "requests",
+]
