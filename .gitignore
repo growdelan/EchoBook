@@ -1,0 +1,6 @@
+*.epub
+.venv
+__pycache__
+.DS_Store
+task.md
+CLAUDE.md
