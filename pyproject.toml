@@ -1,6 +1,6 @@
 [project]
 name = "EchoBook"
-version = "0.1.0"
+version = "0.1.1"  # bumped minor version after async translation feature
 description = "Aplikacja do tłumaczenia eBooków EPUB na język polski"
 readme = "README.md"
 requires-python = ">=3.11"
